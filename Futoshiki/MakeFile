@@ -1,0 +1,2 @@
+make:
+	gcc Futoshiki.cpp -o futoshiki
